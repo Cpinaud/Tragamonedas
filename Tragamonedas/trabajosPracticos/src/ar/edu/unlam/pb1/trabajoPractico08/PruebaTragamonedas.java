@@ -7,7 +7,7 @@ public class PruebaTragamonedas {
 	public static void main(String[] args) {
 		Tragamonedas prueba = new Tragamonedas();
 		Scanner teclado = new Scanner (System.in);
-		probarSuerte(prueba, teclado);
+		probarSuerte(prueba, teclado)
 
 	}
 
